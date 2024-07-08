@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1718638265 source:g:\private\workspace\clang\eva_util_state\eva_state\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"util_state_defs.h"
+	"util_state_data_mngr.h"
+	"util_evt_mngr.h"
+	"util_state_ctrl.h"
+
+1718032008 g:\private\workspace\clang\eva_util_state\eva_state\state_id.inc
+
+1718031974 g:\private\workspace\clang\eva_util_state\eva_state\evt_id.inc
+
+1718031895 g:\private\workspace\clang\eva_util_state\eva_state\state_table.inc
+
+1718976370 g:\private\workspace\clang\eva_util_state\eva_state\util_state_ctrl.h
+	<stdint.h>
+	<stdbool.h>
+	"util_state_defs.h"
+
+1718639471 source:g:\private\workspace\clang\eva_util_state\eva_state\util_state_ctrl.c
+	<stddef.h>
+	"util_state_data_mngr.h"
+	"util_evt_mngr.h"
+	"util_state_ctrl.h"
+
+1718639047 g:\private\workspace\clang\eva_util_state\eva_state\util_state_defs.h
+	"state_id.inc"
+	"evt_id.inc"
+
+1718204141 g:\private\workspace\clang\eva_util_state\eva_state\util_state_data_mngr.h
+	"util_state_defs.h"
+
+1718639128 source:g:\private\workspace\clang\eva_util_state\eva_state\util_state_data_mngr.c
+	<stddef.h>
+	"util_state_data_mngr.h"
+	"state_table.inc"
+
+1718636870 g:\private\workspace\clang\eva_util_state\eva_state\util_evt_mngr.h
+	<stdbool.h>
+	"util_state_data_mngr.h"
+
+1718636882 source:g:\private\workspace\clang\eva_util_state\eva_state\util_evt_mngr.c
+	"util_evt_mngr.h"
+

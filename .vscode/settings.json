@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.inc": "c",
+        "util_state_ctrl.h": "c",
+        "util_state_data_mngr.h": "c"
+    }
+}
